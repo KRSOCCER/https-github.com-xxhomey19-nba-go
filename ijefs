@@ -1,0 +1,4 @@
+$ git clone https://github.com/xxhomey19/nba-go.git
+$ cd nba-go
+$ yarn
+$ NODE_ENV=development node bin/cli.js <command>
